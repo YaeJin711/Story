@@ -1,4 +1,2 @@
-I am chapter3
-
-I am chapter3 
+I am chapter3 and :q to exit and :w to save  
 
